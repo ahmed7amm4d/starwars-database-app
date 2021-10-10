@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/starwars-database-app/static/css/main.5b654f2f.chunk.css",
+    "main.css": "/starwars-database-app/static/css/main.8c1f4a92.chunk.css",
     "main.js": "/starwars-database-app/static/js/main.6abffc32.chunk.js",
     "main.js.map": "/starwars-database-app/static/js/main.6abffc32.chunk.js.map",
     "runtime-main.js": "/starwars-database-app/static/js/runtime-main.ef44fd62.js",
@@ -8,14 +8,14 @@
     "static/js/2.b152d318.chunk.js": "/starwars-database-app/static/js/2.b152d318.chunk.js",
     "static/js/2.b152d318.chunk.js.map": "/starwars-database-app/static/js/2.b152d318.chunk.js.map",
     "index.html": "/starwars-database-app/index.html",
-    "static/css/main.5b654f2f.chunk.css.map": "/starwars-database-app/static/css/main.5b654f2f.chunk.css.map",
+    "static/css/main.8c1f4a92.chunk.css.map": "/starwars-database-app/static/css/main.8c1f4a92.chunk.css.map",
     "static/js/2.b152d318.chunk.js.LICENSE.txt": "/starwars-database-app/static/js/2.b152d318.chunk.js.LICENSE.txt",
     "static/media/index.css": "/starwars-database-app/static/media/background.483bb8d7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ef44fd62.js",
     "static/js/2.b152d318.chunk.js",
-    "static/css/main.5b654f2f.chunk.css",
+    "static/css/main.8c1f4a92.chunk.css",
     "static/js/main.6abffc32.chunk.js"
   ]
 }
