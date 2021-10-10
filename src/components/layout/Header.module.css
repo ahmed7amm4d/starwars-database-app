@@ -1,16 +1,14 @@
-@import url('https://allfont.net/allfont.css?fonts=star-jedi');
-
 .header {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.header h1 {
-    padding: 1.5rem;
-    text-align: center;
-    font-family: 'Star Jedi', arial;
-    line-height: 0.9;
-    font-size: 4rem;
-    color: #ffe81f;
+.header img {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding-top: 1.5rem;
     cursor: default;
 }
 
