@@ -1,0 +1,95 @@
+form {
+    animation: appear 500ms ease-out forwards;
+}
+
+.control {
+    margin: 1rem 0;
+}
+  
+.control label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    text-align: left;
+    color: white;
+}
+  
+.control input,
+.control textarea {
+    display: block;
+    width: 100%;
+    font: inherit;
+    padding: 0.2rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+  
+.control input:focus,
+.control textarea:focus {
+    outline: none;
+    outline: #ffe81f solid 2px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.buttons button:last-child {
+    margin-left: 1rem;
+    background-color: #ffe81f;
+    color: #050505;
+}
+
+.buttons button:last-child:hover {
+    background-color: transparent;
+    color: #ffe81f;
+}
+
+@keyframes appear {
+    from {
+      opacity: 0;
+      transform: translateX(3rem);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translatex(0);
+    }
+}
+
+.control-flex {
+    display: flex;
+    margin: 1rem 0;
+}
+
+.flex-child {
+    flex: 1;
+}
+
+.flex-child:first-child {
+    margin-right: 1rem;
+} 
+
+.control-flex label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    text-align: left;
+    color: white;
+}
+
+.control-flex input {
+    display: block;
+    width: 100%;
+    font: inherit;
+    padding: 0.2rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.control-flex input:focus,
+.control-flex textarea:focus {
+    outline: none;
+    outline: #ffe81f solid 2px;
+}
